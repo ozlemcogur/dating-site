@@ -1,4 +1,4 @@
-<h1> Datign Site </h1>
+<h1> Dating Site </h1>
 
 It is a meeting platform brings together people from all around the world
 
@@ -7,3 +7,5 @@ It is a meeting platform brings together people from all around the world
 HTML, CSS
 
 <h3> Screen </h3>
+
+![](dating.gif)
